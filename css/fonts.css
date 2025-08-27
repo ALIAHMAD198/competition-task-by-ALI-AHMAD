@@ -1,0 +1,23 @@
+@font-face {
+  font-family: 'Telegraf-Regular';
+  src: url('../fonts/Telegraf-Regular.woff2') format('woff2'),
+      url('../fonts/Telegraf-Regular.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'Telegraf-UltraBold';
+  src: url('../fonts/Telegraf-UltraBold.woff2') format('woff2'),
+      url('../fonts/Telegraf-UltraBold.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'Telegraf';
+  src: url('../fonts/Telegraf-UltraBold.woff2') format('woff2'),
+      url('../fonts/Telegraf-UltraBold.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'Telegraf-UltraLight';
+  src: url('../fonts/Telegraf-UltraLight.woff2') format('woff2'),
+      url('../fonts/Telegraf-UltraLight.woff') format('woff');
+}
